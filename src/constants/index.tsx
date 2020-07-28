@@ -1,0 +1,6 @@
+export const GET_NUTRITIONS = 'GET_NUTRITIONS';
+export type GET_NUTRITIONS = typeof GET_NUTRITIONS;
+
+
+export const ADD_NUTRITION = 'ADD_NUTRITION';
+export type ADD_NUTRITION = typeof ADD_NUTRITION;
